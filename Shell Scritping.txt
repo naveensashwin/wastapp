@@ -1,0 +1,131 @@
+#!/bin/bash
+echo "Start Point"
+echo "Enter Mobile Cost"
+read mobilecost
+echo "Enter Model Name"
+read modelname
+echo "Enter Mobile Color"
+read mobilecolor
+echo "The mobile model is $modelname"
+echo "The cost of the phone is $mobilecost"
+echo "The color of my phone is $mobilecolor"
+echo "End Point"
+
+
+#!bin/bash
+echo "Car"
+echo "Enter Car Cost
+read cost
+echo "Enter Model Name"
+read model
+echo "Enter Car Type Petrol/Diesel"
+read cartype
+echo "The model of my car is $model"
+echo "The cost of my car is $cost"
+echo "My car type is $cartype"
+
+
+
+#!/bin/bash
+echo "School Information"
+echo "Enter School Name"
+read Name
+echo "Enter your Grade"
+read Grade
+echo "Enter School Strength"
+read schoolstrength
+echo "My school name is $Name"
+echo "I studied till class $Grade"
+echo "My school strenght is $schoolstrength"
+
+
+
+#!/bin/bash
+echo "Television Info"
+echo "Enter the cost of the TV"
+read cost
+echo "Enter the brand of the TV"
+read brand
+Echo "What type it is"
+read type
+echo "I have a TV in the brand of $brand"
+echo "It cost me around $cost"
+echo "Its type is $type"
+
+
+#!/bin/bash
+echo "Bike Information"
+echo "Enter the cost of the bike"
+read cost
+echo "Enter the brand"
+read brand
+echo "What color is the Bike"
+read color
+echo "My bike costs $cost"
+echo "My bike model is $brand"
+echo "My bike color is $color"
+
+
+#!/bin/bash
+echo "Course Details"
+echo "Enter the course"
+read course
+echo "enter the Institution name"
+read unvir_name
+echo "What is the exam cost"
+read exam_cost
+echo "Im currently studying $course"
+echo "At $unvir_name"
+echo "The exam cost is $exam_cost"
+
+
+
+#!/bin/bash
+echo "Laptop Details"
+echo "Enter the Laptop Name"
+read Laptop_name
+echo "Enter the Laptop Cost"
+read laptop_cost
+echo "Whats the laptop brand"
+read laptop_brand
+echo "I have a loptop of $Laptop_name"
+echo "It costs exactly $laptop_cost"
+echo "The brand is $laptop_brand"
+
+#!/bin/bash
+echo "Home Informatiom"
+echo "enter the Home Name"
+read home_name
+echo "Whats the Price"
+read home_cost
+echo "Whats the House Color"
+read home_color
+echo "I have a house in the name of $home_name"
+echo "To build it will cost $home_cost"
+echo "My house color is $home_color"
+
+
+#!/bin/bash
+echo "Employee Details"
+echo "Whats your employee id"
+read emp_id
+echo "Whats your employee Salary"
+read emp_sal
+echo "Which Grade"
+read emp_grade
+echo "My employee id is $emp_id"
+echo "My salary is $emp_sal"
+echo "My grade is $emp_grade"
+
+
+#!/bin/bash
+echo "Cloth Spec"
+echo "Whats the Cloth color"
+read cloth_color
+echo "What wast the cost"
+read cloth_cost
+echo "What the size of your clothes"
+read cloth_size
+echo "I have a hoodie in color $cloth_color"
+echo "It cost me around $cloth_cost"
+echo "My size is $cloth_size"
